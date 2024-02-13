@@ -26,13 +26,12 @@ maisUmaVez()
 function assimQueEuGosto() {
     botaoSim.addEventListener('click', function() {
         document.body.innerHTML = `
-        <h1 class="titulo1" id="titulo">Assim que eu gosto</h1>
+        <h1 class="titulo1" id="titulo">Eu te amo</h1>
         <img src="imgs/alice.gif" alt="cachorrokkkkkkkkkk" class="imagem-final-1" id="imagem">
         <img src="imgs/kuromi.jpg" alt="cachorrokkkkkkkkkk" class="imagem-final-2" id="imagem">
         <img src="imgs/1.jpg" alt="cachorrokkkkkkkkkk" class="imagem-final-3" id="imagem">
         <img src="imgs/hutao.jpg" alt="cachorrokkkkkkkkkk" class="imagem-final-4" id="imagem">
         <img src="imgs/IMG_2510.jpg" alt="cachorrokkkkkkkkkk" class="imagem-final-5" id="imagem">
-        <h1 class="titulo1" id="titulo">Eu te amo!</h1>
         `
     })
 }
