@@ -130,7 +130,7 @@ body {
         position: absolute;
         right: 1.8em;
         bottom: 0.1em;
-        width: 35%;
+        width: 30%;
     }
 
     .titulo1 {
@@ -140,10 +140,13 @@ body {
         align-items: center;
         text-align: center;
         font-size: 3em;
+        margin: 0 0 7em 0 ;
     }
 
     .imagem-final-1 {
+        position: absolute;
         width: 90%;
+        margin: 0;
     }
 
     /*Tela principal*/
