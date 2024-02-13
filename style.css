@@ -118,14 +118,17 @@ body {
     }
 
     .imagem-final-4 {
-        left: 0.1em;
+        margin: 0;
+        position: absolute;
+        left: 0.2em;
         bottom: 0.2em;
     }
     
     .imagem-final-5 {
+        margin: 0;
+        position: absolute;
         right: 1.8em;
         bottom: 0.8em;
-        margin: 0;
     }
 
     .titulo1 {
