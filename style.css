@@ -100,7 +100,7 @@ body {
 }
 
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
 
     /*Caso sim*/
     .imagem-final-2,.imagem-final-3,.imagem-final-4,.imagem-final-5 {
@@ -109,12 +109,12 @@ body {
 
     .imagem-final-3 {
         margin: 0;
-        top: 0.8em;
+        top: 1.4em;
     }
 
     .imagem-final-2 {
         left: 1em;
-        top: 0.1em;
+        top: 1em;
     }
 
     .imagem-final-4 {
