@@ -120,6 +120,7 @@ body {
     .imagem-final-4 {
         margin: 0;
         position: absolute;
+        width: 35%;
         left: 1.5em;
         bottom: 0.1em;
     }
@@ -129,7 +130,7 @@ body {
         position: absolute;
         right: 1.8em;
         bottom: 0.1em;
-        width: 23%;
+        width: 35%;
     }
 
     .titulo1 {
